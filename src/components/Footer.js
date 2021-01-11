@@ -11,17 +11,21 @@ export class Footer extends Component {
 
 				<ul className="filters">
 					<li>
-						<a onClick={this.props.filterAll} className="selected">All</a>
+						<button onClick={this.props.filterAll} className="selected">
+							All
+						</button>
 					</li>
 					<li>
-						<a onClick={this.props.filterActive}>Active</a>
+						<button onClick={this.props.filterActive}>Active</button>
 					</li>
 					<li>
-						<a onClick={this.props.filterCompleted}>Completed</a>
+						<button onClick={this.props.filterCompleted}>Completed</button>
 					</li>
 				</ul>
 
-				<button className="clear-completed" onClick={this.props.clearItems}>Clear completed</button>
+				<button className="clear-completed" onClick={this.props.clearItems}>
+					Clear completed
+				</button>
 			</footer>
 		);
 	}

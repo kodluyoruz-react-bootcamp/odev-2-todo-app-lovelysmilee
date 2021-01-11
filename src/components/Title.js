@@ -1,4 +1,4 @@
-import React, { Component, memo} from 'react'
+import React, { memo } from 'react';
 
 function Title() {
 	return (
