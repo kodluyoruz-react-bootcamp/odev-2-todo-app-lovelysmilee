@@ -1,8 +1,8 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 style="margin-left:150px;"> :sparkles:To-Do App Review:sparkles: </h1>
 
-## Ödev-2 Review
+<p>
+  <img src="figures/todos-review.jpg" width="550" title="todos-review">
+</p>
 
-![review](figures/todos-review.jpg)
-[Ödev-2 Review](https://gifted-jang-b6de5d.netlify.app/)
+[:point_right:Click to See Review](https://gifted-jang-b6de5d.netlify.app/)
